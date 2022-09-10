@@ -3,6 +3,7 @@ name = "ttp"
 version = "0.1.0"
 authors = [ "Viktor D. <dudnik.0x76@gmail.com>" ]
 description = "Parses telegram mobile .attheme file to readable colors"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
